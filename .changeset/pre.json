@@ -1,0 +1,11 @@
+{
+  "mode": "pre",
+  "tag": "next",
+  "initialVersions": {
+    "@monorepo/ui": "1.0.1",
+    "@monorepo/utils": "1.1.0"
+  },
+  "changesets": [
+    "nervous-turkeys-divide"
+  ]
+}
